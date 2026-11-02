@@ -1,6 +1,7 @@
 /**
  * @file matrix.h
  * @brief Библиотека для работы с матрицами.
+ * @author Анна Китаева
  */
 
 #ifndef MATRIX_H
