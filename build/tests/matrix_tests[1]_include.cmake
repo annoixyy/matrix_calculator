@@ -1,0 +1,5 @@
+if(EXISTS "/home/annoixy/projects/matrix_calculator/build/tests/matrix_tests[1]_tests.cmake")
+  include("/home/annoixy/projects/matrix_calculator/build/tests/matrix_tests[1]_tests.cmake")
+else()
+  add_test(matrix_tests_NOT_BUILT matrix_tests_NOT_BUILT)
+endif()

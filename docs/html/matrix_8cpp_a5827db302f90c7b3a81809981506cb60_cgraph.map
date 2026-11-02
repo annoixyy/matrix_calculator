@@ -1,0 +1,5 @@
+<map id="matrix_submatrix" name="matrix_submatrix">
+<area shape="rect" id="Node000001" title="Выделяет подматрицу из исходной матрицы." alt="" coords="5,5,143,33"/>
+<area shape="rect" id="Node000002" href="$matrix_8cpp.html#a00b3eed9347d1300084aa9b4b59faa14" title="Создаёт матрицу, заполненную нулями." alt="" coords="191,5,303,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,17,178,19,172,19,143,22"/>
+</map>

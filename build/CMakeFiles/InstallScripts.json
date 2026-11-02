@@ -1,0 +1,8 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/annoixy/projects/matrix_calculator/build/cmake_install.cmake",
+		"/home/annoixy/projects/matrix_calculator/build/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
