@@ -1,9 +1,0 @@
-/home/annoixy/projects/matrix_calculator/build/CMakeFiles/matrix.dir
-/home/annoixy/projects/matrix_calculator/build/CMakeFiles/matrix_calculator.dir
-/home/annoixy/projects/matrix_calculator/build/CMakeFiles/test.dir
-/home/annoixy/projects/matrix_calculator/build/CMakeFiles/edit_cache.dir
-/home/annoixy/projects/matrix_calculator/build/CMakeFiles/rebuild_cache.dir
-/home/annoixy/projects/matrix_calculator/build/tests/CMakeFiles/matrix_tests.dir
-/home/annoixy/projects/matrix_calculator/build/tests/CMakeFiles/test.dir
-/home/annoixy/projects/matrix_calculator/build/tests/CMakeFiles/edit_cache.dir
-/home/annoixy/projects/matrix_calculator/build/tests/CMakeFiles/rebuild_cache.dir

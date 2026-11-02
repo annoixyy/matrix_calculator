@@ -1,5 +1,0 @@
-MatrixTest.CreateMatrix 1 0.00267611
-MatrixTest.Addition 1 0.00172065
-MatrixTest.Multiplication 1 0.00138682
-MatrixTest.SubmatrixVariant13 1 0.00133153
----
